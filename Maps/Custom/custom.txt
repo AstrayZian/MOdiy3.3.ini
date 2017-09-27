@@ -1,0 +1,3 @@
+Any custom maps you made or downloaded are to be placed in this directory. Custom maps need to have a .map extension. Extensions like .yrm, .mpr, .yro will not work with Mental Omega.
+
+If you'd like to submit your custom map to be included in the official Mental Omega map pool, send them to mental.omega.apyr@gmail.com.
